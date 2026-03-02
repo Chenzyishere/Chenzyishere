@@ -10,6 +10,18 @@ I'm a **Frontend Developer** passionate about building seamless e-commerce exper
 
 ---
 
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chenzyishere&theme=react-dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chenzyishere/Chenzyishere/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 
 <p align="left">
@@ -43,17 +55,6 @@ I'm a **Frontend Developer** passionate about building seamless e-commerce exper
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chenzyishere&theme=react-dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chenzyishere/Chenzyishere/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
